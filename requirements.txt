@@ -7,3 +7,6 @@ openai
 pydantic
 python-dotenv
 requests
+langchain_community
+pypdf
+chromadb
