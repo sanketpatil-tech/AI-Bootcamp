@@ -10,3 +10,4 @@ requests
 langchain_community
 pypdf
 chromadb
+tavily
